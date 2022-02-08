@@ -1,4 +1,4 @@
-name: Label Rebase
+name: DetermineMerge
 
 on:
   pull_request:
